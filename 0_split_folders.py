@@ -1,3 +1,3 @@
 import splitfolders
 
-splitfolders.ratio('zdjecia/data/', output='yolov7-custom/data/', seed=7, ratio=(0.8, 0.2))
+splitfolders.ratio('data/my-data/', output='data/split-data/', seed=7, ratio=(0.7, 0.2, 0.1))
