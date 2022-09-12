@@ -31,5 +31,3 @@ for line in file_labels:
 
 # closing text file
 file_labels.close()
-print("jarek")
-
